@@ -129,5 +129,43 @@ document.addEventListener('DOMContentLoaded', function() {
   // Expected output: Your output should be between -4 and -10
 
 //////////////////////////////////////////////////////////////////////////
+  // Write `countingInNickels` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(countingInNickels(20));
+  // Expected output: true
+  // console.log(countingInNickels(23));
+  // Expected output: false
+  // console.log(countingInNickels(0));
+  // Expected output: true
+
+//////////////////////////////////////////////////////////////////////////
+  // Write `capitalPolice` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(capitalPolice("hey there, how are you doing?"));
+  // Expected output: false
+  // console.log(capitalPolice("Howdy Folks!"));
+  // Expected output: true
+
+//////////////////////////////////////////////////////////////////////////
+  // Write `isNum` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(isNum("I am not a number"));
+  // Expected output: false
+  // console.log(isNum("11"));
+  // Expected output: true
+
+//////////////////////////////////////////////////////////////////////////
 
 })

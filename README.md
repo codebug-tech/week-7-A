@@ -22,4 +22,6 @@ EXAMPLE FUNCTION (Let's do this one together!)
 * Write a function called `babyDaddy` that takes in 2 numbers and returns the smaller number.
 * Write a function called `breakfastChef`. It should take in two booleans. The first is wantsSalty, the second is wantsSweet. The function should look like this `breakfastChef(wantsSalty, wantsSweet)`. If the person wants sweet food it should return chocolate chip pancakes. If the person wants salty food the function should return a ham and cheese omelette. If the person wants sweet and salty, it should return chicken and waffles. If the person does not want sweet or salty it should return water.
 * Write a function called `tweener` that takes in two numbers and returns a number that is between the two. 
-
+* Write a function called `countingInNickels` that takes in a number and returns true or false depending on if the number is evenly divisible by 5 or not.
+* Write a function called `capitalPolice` that takes in a string and returns true if the string contains any capital letters and false if the string does not. 
+* Write a function called `isNum` that takes in a string and returns true if the string is a number and false if the string is not a number.
