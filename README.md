@@ -8,6 +8,10 @@
 ## In `script.js`
 ### Use the directions below to write your functions in `script.js`
 ###### Check each function as you go!
+----
+EXAMPLE FUNCTION (Let's do this one together!)
+* Write a function called `hotdogNotHotdog` that takes in the name of an item and returns "hotdog" if the item is a hotdog and "not hotdog" if the item is not a hotdog. 
+----
 * Write the famous [`helloWorld` function](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) that returns "Hello World!"
 * Write a function called `yell` that takes in a string and returns the uppercase version of it. [Hint](https://www.w3schools.com/jsref/jsref_touppercase.asp) Javascript has a built in function to help you. 
 * Write a function called `makeMoreExciting` that takes in a string and returns the string with `!!!` added onto the end of it. 

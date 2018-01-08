@@ -1,5 +1,16 @@
 document.addEventListener('DOMContentLoaded', function() {
 //////////////////////////////////////////////////////////////////////////
+  // Write the `hotdogNotHotdog` function below.
+
+
+
+  // Uncomment the line below, and look in the console to see if your function worked!
+  // console.log(hotdogNotHotdog("hotdog"))
+  // Expected output: hotdog
+  // console.log(hotdogNotHotdog("peyton manning"))
+  // Expected output: not hotdog
+
+//////////////////////////////////////////////////////////////////////////
   // Write the `helloWorld` function below.
 
 
